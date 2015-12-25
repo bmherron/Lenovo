@@ -21,6 +21,13 @@ public class OpenHelper extends SQLiteOpenHelper {
 				+ "_id integer primary key autoincrement , " + Config.sensorname + 
 				" varchar(20) , " + Config.sensorvalues + " varchar(20) , " + 
 				Config.time + " varchar(20))";
+		String sql60 = "create table " + Config.table60 + " ("
+				+ "_id integer primary key autoincrement , " + Config.sensorname + 
+				" varchar(20) , " + Config.sensorvalues + " varchar(20) , " + 
+				Config.time + " varchar(20))";
+		
+		arg0.execSQL(sql60);
+		arg0.execSQL(sql5);
 	}
 
 	@Override
