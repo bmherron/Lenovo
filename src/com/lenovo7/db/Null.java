@@ -1,4 +1,4 @@
-package com.lenovo.thread;
+package com.lenovo7.db;
 
 public class Null {
 
