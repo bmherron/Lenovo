@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="w">#08e0a7</color>
+    <color name="red">#ff5f5f</color>
+    <color name="blue">#389cff</color>
+    <color name="line">#e0e0e0</color>
+    <color name="translate">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="blank">#000000</color>
+    <color name="gray">#d9d9d9</color>
+
+</resources>

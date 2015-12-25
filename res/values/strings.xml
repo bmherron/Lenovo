@@ -4,5 +4,9 @@
     <string name="app_name">Lenovo7</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="settings">设置</string>
+    <string name="history">历史</string>
+    <string name="car">小车</string>
+    <string name="home">首页</string>
 
 </resources>
